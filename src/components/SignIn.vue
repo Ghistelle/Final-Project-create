@@ -22,7 +22,7 @@ By building this component, we will achieve a user interface that allows users t
         </label>
         <!-- Button -->
         <!-- I personally like semantic elements, I think they are easier to read as an engineer -->
-        <button type="submit">Log In</button>
+        <button type="submit" class="vert">Log In</button>
       </div>
       
     </form>
